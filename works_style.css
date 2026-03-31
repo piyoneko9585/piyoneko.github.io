@@ -1,0 +1,74 @@
+.back-home-btn{
+	position: fixed;
+	top: 0;
+	left: 0;
+	padding: 1rem;
+	font-size: 14px;
+	background: rgba(0, 0, 0, .6);
+	color: #fff;
+	text-decoration: none;
+	border-radius: .3rem;
+	z-index: 100;
+	transition: .2s ease;
+	box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+.back-home-btn:hover {
+  background-color: rgba(0, 0, 0, 0.8);}
+
+.works-header{
+	height: 35vh;
+	position: relative;
+}
+.works-header div{
+	position: absolute;
+	height: 50%;
+	top: 60%;
+	transform: translateY(-50%);
+}
+.works-list{
+	padding-top: 3rem;
+}
+.work-card{
+	width: 85vw;
+}
+.work-container{
+	width: 100%;
+	text-align: center;
+}
+.work-container img{
+	width: 100%;
+	/*margin-left: auto;
+	margin-right: auto;*/
+}
+.work-note{
+	text-align: center;
+	color: #555;
+	margin-top: -.2rem;
+}
+article{
+	padding: 0;
+}
+article:not(:last-child){
+	padding-bottom: 2rem;
+}
+h3{
+	text-align: center;
+}
+h4{
+	margin-bottom: -1rem;
+}
+article ul{
+	padding-top: .75rem;
+}
+article ul:not(:last-child){
+	padding-bottom: 2rem;
+}
+article ul li{
+	list-style-type: "・";
+}
+/*li:has(.list-child){
+	list-style-type: none;
+}
+.list-child li{
+	list-style-type: circle;
+}*/

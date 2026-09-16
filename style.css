@@ -96,6 +96,7 @@ i{
 	background: #888;
 }
 .readmore a{
+	width: 100%;
 	color: #fff;
 	text-decoration: none;
 	font-size: .8rem;

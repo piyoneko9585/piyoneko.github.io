@@ -41,7 +41,7 @@
 	margin-right: auto;*/
 }
 .work-container ul li{
-	text-align: if(style(text-align: center): left;)
+	text-align: left;
 }
 .work-note{
 	text-align: center;

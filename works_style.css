@@ -67,9 +67,9 @@ h4{
 article ul{
 	padding-top: .75rem;
 }
-article ul:not(:last-child){
+/*article ul:not(:last-child){
 	padding-bottom: 2rem;
-}
+}*/
 article ul li{
 	list-style-type: "・";
 }

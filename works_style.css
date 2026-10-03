@@ -60,6 +60,9 @@ h3{
 h4{
 	margin-bottom: -1rem;
 }
+h4 + p{
+	padding-top: 1rem;
+}
 article ul{
 	padding-top: .75rem;
 }

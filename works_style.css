@@ -48,6 +48,9 @@
 	color: #555;
 	margin-top: -.2rem;
 }
+.subheading-container{
+	margin-bottom: 1.5rem;
+}
 article{
 	padding: 0;
 }
